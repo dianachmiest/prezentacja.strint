@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Signika+Negative:wght@300&display=swap');
+
+ul{
+
+}
+html{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    
+}
+h2{
+    color:rgb(170, 141, 114);
+    font-family: 'Barlow Condensed', sans-serif; 
+font-size: 30px;
+}
+ul{
+    max-width: 50%;
+    color:rgb(190, 150, 89);
+    text-align: center;
+   
+}
+li{
+    text-align: center;
+}
+p{
+    color: black;
+padding-top: 1px;
+padding-bottom: 1px;
+text-align: center;
+padding-left: 20%;
+padding-right: 20%;
+}
+.btn{
+    color: black;
+    text-decoration: none;
+    display: block;
+    background: #ffffffad;
+    border: 2px solid #e9e9e9ad;
+    height: 30px;
+    width: 30px;
+    color: rgba(0, 0, 0, 0.55);
+    text-align: center;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background: -webkit-linear-gradient(top, #cfcfcfad, #ebeaeaad);
+    float: right;
+    margin-top: 15%;
+    
+
+}
+hr{
+    opacity: 0.5;
+    max-width: 75%;
+}
+.p-1{
+color: rgb(155, 136, 111);
+font-family: 'Signika Negative', sans-serif;
+}
+
+
+
